@@ -1,0 +1,21 @@
+# The repository is a code showcase. Binaries belong in GitHub Releases.
+*.apk
+*.aab
+*.exe
+*.pdb
+*.log
+*.keystore
+*.jks
+.env
+.env.*
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+.vs/
+.idea/
+.DS_Store
+Thumbs.db
